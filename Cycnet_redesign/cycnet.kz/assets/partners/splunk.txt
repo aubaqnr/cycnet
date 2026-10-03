@@ -1,1 +1,0 @@
-Replace this file with the real logo for Splunk, saved as splunk.png.

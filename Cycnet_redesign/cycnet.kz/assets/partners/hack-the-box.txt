@@ -1,1 +1,0 @@
-Replace this file with the real logo for Hack The Box, saved as hack-the-box.png.
